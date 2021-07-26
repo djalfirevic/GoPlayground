@@ -1,3 +1,3 @@
 # Go
 
-Go Playground for practicing Go programming language.
+Playground for practicing Go programming language.
